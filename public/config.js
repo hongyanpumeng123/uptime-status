@@ -32,5 +32,9 @@ window.Config = {
       text: 'GitHub',
       url: 'https://github.com/qikaile/uptime-status'
     },
+    {
+      text: '此网站教程',
+      url: 'https://qikaile.tk/uptime-status.html'
+    },
   ],
 };
