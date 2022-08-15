@@ -21,7 +21,7 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '主页1',
+      text: '主页',
       url: 'https://tjys.tk'
     },
     {
